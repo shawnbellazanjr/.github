@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+![metro-transit-cover](https://user-images.githubusercontent.com/113377425/207847186-b3065a06-353a-4a7f-8787-bf0ccf0543d2.svg)
+
 
 **Here are some ideas to get you started:**
 
